@@ -30,7 +30,7 @@ Here is the preview of my 3D Calculator:
 - ✅ Functional C (clear), backspace, percentage %, and = buttons  
 - ✅ Works smoothly on modern web browsers  
 - ✅ Responsive design for desktops and laptops
-- ✅ Also you can see your Past 10 Previous result
+- ✅ Also you can see your Past 10 Previous results
 
 ---
 
