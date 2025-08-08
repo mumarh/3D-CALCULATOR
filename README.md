@@ -10,9 +10,7 @@ A modern, glowing 3D calculator built using *HTML, **CSS, and **JavaScript*. Thi
 - [Technologies Used](#-technologies-used)
 - [File Structure](#-file-structure)
 - [How to Run](#-how-to-run)
-- [Screenshot](#-screenshot)
 - [Author](#-author)
-- [License](#-license)
 
 ---
 
@@ -46,7 +44,7 @@ A modern, glowing 3D calculator built using *HTML, **CSS, and **JavaScript*. Thi
 ---
 
 
-## ⚙ How to Run Locally
+## ⚙ How to Run
 
 Anyone can run this project easily by following these steps:
 
