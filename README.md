@@ -4,6 +4,14 @@ A modern, glowing 3D calculator built using *HTML, **CSS, and **JavaScript*. Thi
 
 ---
 
+## 📸 Screenshot
+
+Here is the preview of my 3D Calculator:
+
+![3d Calculator Preview](screenshot.png.png)
+
+---
+
 ## 📌 Table of Contents
 
 - [Features](#-features)
@@ -18,10 +26,11 @@ A modern, glowing 3D calculator built using *HTML, **CSS, and **JavaScript*. Thi
 ## 🚀 Features
 
 - ✅ Stylish 3D interface with glowing neon effects  
-- ✅ Basic calculator operations: +, -, ×, ÷  
+- ✅ Basic calculator operations: +, -, ×, ÷ , % 
 - ✅ Functional C (clear), backspace, percentage %, and = buttons  
 - ✅ Works smoothly on modern web browsers  
-- ✅ Responsive design for desktops and laptops  
+- ✅ Responsive design for desktops and laptops
+- ✅ Also you can see your Past 10 Previous result
 
 ---
 
@@ -63,15 +72,6 @@ Anyone can run this project easily by following these steps:
    - Save it and open it in your browser to see how the calculator performs
 
 ✅ That’s it — you're ready to explore and test the calculator!
-
----
-
-
-## 📸 Screenshot
-
-Here is the preview of my 3D Calculator:
-
-![3d Calculator Preview](screenshot.png.png)
 
 ---
 
