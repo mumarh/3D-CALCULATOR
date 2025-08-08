@@ -62,10 +62,10 @@ Anyone can run this project easily by following these steps:
    - Click the green Code button above and select *Download ZIP, or click **Fork* to clone it
 
 2. *Open the folder*
-   - Inside the folder, you will see the file named index.html
+   - Inside the folder, you will see the file named Cal.html
 
 3. *Copy and paste the code*
-   - Open the index.html file
+   - Open the Cal.html file
    - Copy the full code from that file
    - Open your *VS Code* or any code editor you're using
    - Paste the code into a new HTML file
