@@ -37,9 +37,9 @@ A modern, glowing 3D calculator built using *HTML, **CSS, and **JavaScript*. Thi
 
 |  FILE NAME          | Description                              |
 |---------------------|------------------------------------------|
-| cal.html            | #HTML file for the structure             |
-| cal.css             | #CSS file for the style and neon effects |
-| cal.js              | #javascript file for the logic           | 
+| Cal.html            | #HTML file for the structure             |
+| Cal.css             | #CSS file for the style and neon effects |
+| Cal.js              | #javascript file for the logic           | 
 
 
 ---
