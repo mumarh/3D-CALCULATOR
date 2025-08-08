@@ -69,7 +69,7 @@ Anyone can run this project easily by following these steps:
 
 Here is the preview of my 3D Calculator:
 
-![3D Calculator Preview](screenshot.png)
+![screenshot.png]
 
 ---
 
