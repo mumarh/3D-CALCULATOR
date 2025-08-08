@@ -78,9 +78,9 @@ Here is the preview of my 3D Calculator:
 ## 🙋‍♂ Author
 
 *Muhammad Umar Hassan*  
-📚 BSCS Student | Frontend Learner  
-🔗 https://www.linkedin.com/in/m-umarh
-📧 mumarh135@gmail.com
+- 📚 BSCS Student | Frontend Learner  
+- 🔗 https://www.linkedin.com/in/m-umarh
+- 📧 mumarh135@gmail.com
 
 ---
 
